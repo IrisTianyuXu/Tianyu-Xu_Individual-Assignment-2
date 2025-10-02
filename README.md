@@ -25,6 +25,9 @@ Funding sources: United States Department of Justice. Office of Justice Programs
 [DS1](https://catalog.data.gov/dataset/enhancing-school-resource-officers-effectiveness-through-online-professional-and-job-2018--294a8)  
 DOI: https://doi.org/10.3886/ICPSR37946.v1  
 Data Type: Tabular Data, CSV  
+
+This pilot project was aimed at promoting the skills of School Resource Officers, through an innovative online professional development platform. Conducted in partnership with Florida Public Schools, this project involved the development, testing, and refinement of online modules around trauma-informed care, social emotional learning, restorative problem-solving, and cultural competence. After development of the four modules, a small pilot evaluation was conducted with K-12 School Security Professionals to assess for efficacy and scalability. The survey assessed knowledge retention, and gathered demographic information including: age, gender, race/ethnicity, and education level.
+
 ##### Date that the file was created
 Original Release Date: 2021-07-27  
 Version History: 2021-07-27 ICPSR data undergo a confidentiality review and are altered when necessary to limit the risk of disclosure. ICPSR also routinely creates ready-to-go data files along with setups in the major statistical software formats as well as standard codebooks to accompany the data. In addition to these procedures, ICPSR performed the following processing steps for this data collection: Checked for undocumented or out-of-range codes.
@@ -45,7 +48,52 @@ Restrictions: Access to these data is restricted. Users interested in obtaining 
 
 4. [Robinson, Luz E., Woolweaver, Ashley B., Espelage, Dorothy L., Little, Grace Restorative justice: A qualitative analysis of school security perspectives. Contemporary Justice Review. 24, (3), 336-360.](https://www.tandfonline.com/doi/abs/10.1080/10282580.2021.1938008)
 
-
+##### Recommended citation
+Espelage, Dorothy L., and Graber, Julia A. Enhancing School Resource Officers Effectiveness through Online Professional and Job Embedded Coaching, Miami-Dade County, Florida, 2018-2020. Inter-university Consortium for Political and Social Research [distributor], 2021-07-27. https://doi.org/10.3886/ICPSR37946.v1
 
 ## Methodological Information
+##### Methods for Data Collection
+_Study Purpose_  
+The investigator sought to develop a framework for professional development opportunities to address the rising numbers of School Resource Officers (SROs). Trauma-Informed Care is a framework that aims to create environments sensitive to all students' backgrounds, known or unknown, with all forms of trauma (e.g. racial trauma, child abuse, trauma resulting from environmental event).
+
+The proposed project is aimed at promoting the skills of SROs, through an innovative online professional development platform. The modules created and pilot tested were trauma-informed care, social emotional learning, restorative problem-solving, and cultural competence. The four modules addressed the following areas:
+
+Trauma-Informed Care: Understanding the neurological, biological, and psychological impact of trauma on affected children and adolescents.
+Social-Emotional Learning: Building student capacity in the Collaborative for Academic, Social, and Emotional Learning (CASEL) core competencies, including self-awareness, self-management, social awareness, responsible decision-making, and relationship skills.
+Restorative Problem-Solving: Developing a school culture grounded in community problem-solving and productive restitution, as an alternative to punitive and/or retributive-based discipline.
+Cultural Competence: Understanding cultural inequalities and developing strategies for overcoming personal and structural barriers.
+
+_Study Design_  
+The present study utilized a case study design. Each module's script and supplemental resources were created over the course of approximately three months, totaling one year to create all four modules. Module development began with literature reviews on each topic to determine key competencies for participants, followed by creating a content outline to provide participants with these competencies. After the development of the four modules, a small pilot evaluation was conducted with K-12 School Security Professionals. Participants self-selected to receive the training either at the beginning of the summer (May 2019) or at the end of the summer (August 2019). Cohort 1 (immediate intervention) consisted of participants who selected the early summer training and Cohort 2 (delayed intervention-control group) consisted of participants who selected the later summer training. Participants in Cohort 1 completed a survey after viewing the online professional development modules and Cohort 2 completed the same survey before being offered the training.
+
+_Sample_  
+The participating district gave a soft mandate to School Security Professionals, meaning they were not required, but strongly encouraged to do the training modules. Participants were able to self-select into the immediate intervention or delayed intervention-control group.
+
+_Time Method_  
+Cross-sectional
+
+_Universe_  
+School Security Professionals in Florida, employed by a single school district, in 2019.
+
+_Data Types_  
+Survey data
+
+_Description of Variables_  
+Variables include demographic variables including education, age, gender, and race, and SROs' responses to a self-assessment survey regarding their knowledge of traumatic stress.
+
+_Response Rates_  
+A total of 140 School Security Professionals were invited to participate in the study. Of those individuals, 96 participated in the pilot evaluation, resulting in a response rate of 68.6%.
+
+_Presence of Common Scales_  
+General Self-Efficacy scale (Schwarzer and Jerusalem, 1995)
+Trauma-Informed Organizational Self-Assessment (Fallot and Harris, 2009)
+Self-Assessment of Social and Emotional Competencies (SASEC) (Yoder, 2014)
+
+##### Methods for Data Processing
+###############################
+
+##### Software Needed to Interpret the Data
+
+
+
 ## Data-Specific Information
