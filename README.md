@@ -11,6 +11,7 @@ _2025-10-02_
 ## General Information
 Title: Enhancing School Resource Officers Effectiveness through Online Professional and Job Embedded Coaching, Miami-Dade   County, Florida, 2018-2020 (ICPSR 37946)  
 Creator: Tianyu Xu  
+ORCID ID: 0009-0003-5001-4742  
 Principal Investigators: Ada Xu, Xueting Zhang, Yingxuan Yan  
 Contact person: Tianyu Xu  
 Date of Data Collection: 2019-05-24 -- 2019-08-15  
@@ -284,16 +285,16 @@ The package MICE (Mul-tiple Imputation by Chained Equations) in R was used to ha
 
 
 ## Reflections
-1. _Which metadata standard did you choose and why?_
+1. _Which metadata standard did you choose and why?_  
   I used the Data Documentation Initiative (DDI) because it is an international and shared standard for describing data,
   especially by creating interactive codebooks and building question banks.  
-3. _Which template/software did you use?_
-   I used the Markdown on GitHub to write the README file.
+3. _Which template/software did you use?_  
+   I used the Markdown on GitHub to write the README file as it is the most common used tools to write README files featuring universal compatibility and easy to learn.  
    I also used Banner Maker and Shields.io to make banner and badges.
-4. _What was the most challenging part of creating a ReadME file? How did you overcome these obstacles?_
+4. _What was the most challenging part of creating a ReadME file? How did you overcome these obstacles?_  
    First, although the structure of a README file is clear, it really depend on the file creator about how to present the information,
-   specifically where to use headings, italics and how to create tables to make the study more easy to understand.
-   Second, the dataset that I chose has too many variables, so it is a little bit annonying to arrange those variables in tables. Besides, for this assignment, it was not always easy to find all the information that I want in a single website. I need to look into all the research papers citing this dataset to go back to the original study design.
+   specifically where to use headings, italics and how to create tables to make the study more easy to understand.  
+   Second, the dataset that I chose has too many variables, so it is a little bit annonying to arrange those variables in tables. Besides, for this assignment, it was not always easy to find all the information that I want in a single website. I need to look into all the research papers citing this dataset to go back to the original study design.  
    Third, it was my first time to use GitHun. So I spent some time to figure out how it works. I even did not save the work proporly and accidentally lost my first version. Therefore, I have to rewrite the whole assignment. I know data management is what we have talked about in previous weeks:( 
    
 
