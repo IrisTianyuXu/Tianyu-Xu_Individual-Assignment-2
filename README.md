@@ -13,7 +13,7 @@ Title: Enhancing School Resource Officers Effectiveness through Online Professio
 Creator: Tianyu Xu  
 ORCID ID: 0009-0003-5001-4742  
 Principal Investigators: Tianyu Xu, Ada Xu, Xueting Zhang, Yingxuan Yan  
-Contact person: Tianyu Xu, tx2264@tc.columbia.edu, Teachers College, Columbia University 525 West 120th Street New York, NY
+Contact person: Tianyu Xu, tx2264@tc.columbia.edu, Teachers College, Columbia University 525 West 120th Street New York, NY  
 Date of Data Collection: 2019-05-24 -- 2019-08-15  
 Keywords: curriculum evaluation, professional development, school personnel, school security, schools  
 Geographical location:  Miami-Dade County, Florida, USA  
