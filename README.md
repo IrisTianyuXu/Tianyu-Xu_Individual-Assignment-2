@@ -117,23 +117,22 @@ A total of 140 School Security Professionals were invited to participate in the 
 
 ##### Data Dictionary
 
-##### Variable Labels from Scales
-
-
-SUBJECT_ID| SUBJECT_ID
-DATE| Start Date
-CONDITION| What condition (control or intervention) is the subject in?
-EDUCATION| What is the highest degree or level of school you have completed?
-GENDER| What is your gender?
-AGE|What is your age?
-JOB_TITLE|What is your current job title?
-HISPANIC| What is your race/ethnicity? Check all that apply. Hispanic/Latino
-WHITE|What is your race/ethnicity? Check all that apply. White
-AMERICAN_INDIAN|What is your race/ethnicity? Check all that apply. American Indian/Alaskan Native
-ASIAN|What is your race/ethnicity? Check all that apply. Asian
-AFRICAN_AMERICAN|What is your race/ethnicity? Check all that apply. African American/Black
-MULTIRACIAL|What is your race/ethnicity? Check all that apply. Multiracial
-NATIVE_HAWAIIAN|What is your race/ethnicity? Check all that apply. Native Hawaiian/Pacific Islander
+| Variable     | Variable Name    | Measurement Unit    | Allowed Values    | Description|
+|---------------|------------------|---------------------|-------------------|-----------|
+|Participant ID Number| SUBJECT_ID| Numeric        |01-99| ID number assigned to participant in sequential order|
+|Start Date|DATE| mm-dd-yyyy| 01-01-2019-12-31-2019| When participant completed the survey|
+|Condition|CONDITION| Numeric| 1=control 2=intervention| What condition (control or intervention) is the subject in?
+|Education Level|EDUCATION| Numeric| 1=High school/GED 2= Some college or Associate's degree 3=Trade/technical/vocational training 4=Bachelor's degree 5=Master's or Doctorate degree| What is the highest degree or level of school you have completed?
+|Gender|GENDER| Numeric|1=Female 2=Male| What is your gender?
+|Age|AGE|Numeric|18.0-70.0|What is your age?
+|Job Title|JOB_TITLE|Numeric|1=Guardians 2=Security speicalists 3= Campus monitors 4=Other| What is your current job title?
+|Hispanic|HISPANIC|Numeric|0=No 1=Yes| What is your race/ethnicity? Check all that apply. Hispanic/Latino
+|White|WHITE|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. White
+|American Indian|AMERICAN_INDIAN|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. American Indian/Alaskan Native
+|Asian|ASIAN|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. Asian
+|Afrian American|AFRICAN_AMERICAN|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. African American/Black
+|Multiracial|MULTIRACIAL|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. Multiracial
+|Native Hawaiian|NATIVE_HAWAIIAN|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. Native Hawaiian/Pacific Islander
 
 
 GEN_SELF_EFFICACY
@@ -259,29 +258,7 @@ SEL_KNOWLEDGE_PERCENT_CORRECT|What percentage of the SEL module knowledge checks
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##### Variable Labels from Scales
 
 
 
