@@ -83,6 +83,8 @@ Self-Assessment of Social and Emotional Competencies (SASEC) (Yoder, 2014)
 ##### Methods for Data Processing
 We fitted a series of ten linear regression models for each outcome of interest in a posttest-only design to detect differ-ences between SSPs in Cohort 1 (immediate intervention). and Cohort 2 (delayed intervention–control group). Each model included participants’ age, gender, and level of edu-cation for two reasons, to determine whether competencies varied according to demographic differences among partici-pants and to control for any potential differences in the esti-mates of intervention effects. 
 
+This was explained in [Espelage, Dorothy L., Valido, Alberto, El Sheikh, America J., Robinson, Luz E., Ingram, Katherine M., Torgal, Cagil, Atria, Catherine G., Chalfant, Pamela K., Nicholson, Angelica M., Salama, Christine D., Poekert, Philip E. Pilot evaluation of K-12 school security professionals online training: Understanding trauma and social-emotional learning. School Mental Health. 13, 41-54.](https://link.springer.com/article/10.1007/s12310-020-09399-2)
+
 ##### Software Needed to Interpret the Data
 All analyses were performed using the statistical software R.
 
