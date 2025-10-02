@@ -9,11 +9,11 @@ _Tianyu Xu_
 _2025-10-02_  
 
 ## General Information
-Title: Enhancing School Resource Officers Effectiveness through Online Professional and Job Embedded Coaching, Miami-Dade   County, Florida, 2018-2020 (ICPSR 37946)  
+Title: Enhancing School Resource Officers Effectiveness through Online Professional and Job Embedded Coaching, Miami-Dade County, Florida, 2018-2020 (ICPSR 37946)  
 Creator: Tianyu Xu  
 ORCID ID: 0009-0003-5001-4742  
-Principal Investigators: Ada Xu, Xueting Zhang, Yingxuan Yan  
-Contact person: Tianyu Xu  
+Principal Investigators: Tianyu Xu, Ada Xu, Xueting Zhang, Yingxuan Yan  
+Contact person: Tianyu Xu, tx2264@tc.columbia.edu, Teachers College, Columbia University 525 West 120th Street New York, NY
 Date of Data Collection: 2019-05-24 -- 2019-08-15  
 Keywords: curriculum evaluation, professional development, school personnel, school security, schools  
 Geographical location:  Miami-Dade County, Florida, USA  
@@ -25,12 +25,16 @@ Funding sources: United States Department of Justice. Office of Justice Programs
 
 ##### Short Description
 [DS1](https://catalog.data.gov/dataset/enhancing-school-resource-officers-effectiveness-through-online-professional-and-job-2018--294a8)  
+[Study Website](https://www.icpsr.umich.edu/web/NACJD/studies/37946/versions/V1)
+
+
 DOI: https://doi.org/10.3886/ICPSR37946.v1  
 Data Type: Tabular Data, CSV  
 
-This pilot project was aimed at promoting the skills of School Resource Officers, through an innovative online professional development platform. Conducted in partnership with Florida Public Schools, this project involved the development, testing, and refinement of online modules around trauma-informed care, social emotional learning, restorative problem-solving, and cultural competence. After development of the four modules, a small pilot evaluation was conducted with K-12 School Security Professionals to assess for efficacy and scalability. The survey assessed knowledge retention, and gathered demographic information including: age, gender, race/ethnicity, and education level.
+This pilot project was aimed at promoting the skills of School Resource Officers (SROs), through an innovative online professional development platform. Conducted in partnership with Florida Public Schools, this project involved the development, testing, and refinement of online modules around trauma-informed care (TIC), social emotional learning (SEL), restorative problem-solving, and cultural competence. After development of the four modules, a small pilot evaluation was conducted with K-12 School Security Professionals to assess for efficacy and scalability. The survey assessed knowledge retention, and gathered demographic information including: age, gender, race/ethnicity, and education level.
 
-##### Date that the file was created
+
+##### Date That the File Was Created
 Original Release Date: 2021-07-27  
 Version History: 2021-07-27 ICPSR data undergo a confidentiality review and are altered when necessary to limit the risk of disclosure. ICPSR also routinely creates ready-to-go data files along with setups in the major statistical software formats as well as standard codebooks to accompany the data. In addition to these procedures, ICPSR performed the following processing steps for this data collection: Checked for undocumented or out-of-range codes.
 
@@ -40,7 +44,7 @@ Version History: 2021-07-27 ICPSR data undergo a confidentiality review and are 
 Licence: us-pd  
 Restrictions: Access to these data is restricted. Users interested in obtaining these data must complete a Restricted Data Use Agreement, specify the reason for the request, and obtain IRB approval or notice of exemption for their research.
 
-##### Links to publications:
+##### Links to Publications:
 
 1. [Forber-Pratt, Anjali J., Espelage, Dorothy L., Robinson, Luz E., Woolweaver, Ashley B., Torgal, Cagil, El Sheikh, America J. 'I'm a security professional, a counselor, a leader, and sometimes a father figure': Transformative social emotional learning through the eyes of school security professionals. American Journal of Community Psychology. 71, (3-4), 317-331.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajcp.12640?casa_token=HKBYhw4_BnMAAAAA:Yz-Pa_aLb-mEAMYAotKNNMzBG7-Q7UqrNCc7Akh8v6PmWQCLTTtM1zPlhBtnpv6hPFW_ViM-ANZO51EA)
 
@@ -55,15 +59,6 @@ Espelage, Dorothy L., and Graber, Julia A. Enhancing School Resource Officers Ef
 
 ## Methodological Information
 ##### Methods for Data Collection
-_Study Purpose_  
-The investigator sought to develop a framework for professional development opportunities to address the rising numbers of School Resource Officers (SROs). Trauma-Informed Care is a framework that aims to create environments sensitive to all students' backgrounds, known or unknown, with all forms of trauma (e.g. racial trauma, child abuse, trauma resulting from environmental event).
-
-The proposed project is aimed at promoting the skills of SROs, through an innovative online professional development platform. The modules created and pilot tested were trauma-informed care, social emotional learning, restorative problem-solving, and cultural competence. The four modules addressed the following areas:
-
-Trauma-Informed Care: Understanding the neurological, biological, and psychological impact of trauma on affected children and adolescents.
-Social-Emotional Learning: Building student capacity in the Collaborative for Academic, Social, and Emotional Learning (CASEL) core competencies, including self-awareness, self-management, social awareness, responsible decision-making, and relationship skills.
-Restorative Problem-Solving: Developing a school culture grounded in community problem-solving and productive restitution, as an alternative to punitive and/or retributive-based discipline.
-Cultural Competence: Understanding cultural inequalities and developing strategies for overcoming personal and structural barriers.
 
 _Study Design_  
 The present study utilized a case study design. Each module's script and supplemental resources were created over the course of approximately three months, totaling one year to create all four modules. Module development began with literature reviews on each topic to determine key competencies for participants, followed by creating a content outline to provide participants with these competencies. After the development of the four modules, a small pilot evaluation was conducted with K-12 School Security Professionals. Participants self-selected to receive the training either at the beginning of the summer (May 2019) or at the end of the summer (August 2019). Cohort 1 (immediate intervention) consisted of participants who selected the early summer training and Cohort 2 (delayed intervention-control group) consisted of participants who selected the later summer training. Participants in Cohort 1 completed a survey after viewing the online professional development modules and Cohort 2 completed the same survey before being offered the training.
@@ -81,8 +76,8 @@ _Data Types_
 Survey data
 
 _Presence of Common Scales_  
-General Self-Efficacy scale (Schwarzer and Jerusalem, 1995)
-Trauma-Informed Organizational Self-Assessment (Fallot and Harris, 2009)
+General Self-Efficacy scale (Schwarzer and Jerusalem, 1995)  
+Trauma-Informed Organizational Self-Assessment (Fallot and Harris, 2009)  
 Self-Assessment of Social and Emotional Competencies (SASEC) (Yoder, 2014)
 
 ##### Methods for Data Processing
@@ -96,8 +91,8 @@ Inter-university Consortium for Political and Social Research
 
 
 ## Data-Specific Information
-_❗️Note: Trauma-Informed Care (TIC), Social-Emotional Learning (SEL)
-##### Num of variables and cases
+_❗️Note: Trauma-Informed Care (TIC), Social-Emotional Learning (SEL)_
+##### Num of Variables and Cases
 _Num of Variables_
 92 variables from several scales below.  
 
@@ -113,7 +108,7 @@ _Num of Variables_
 _Description of Variables_  
 Variables include demographic variables including education, age, gender, and race, and SROs' responses to a self-assessment survey regarding their knowledge of traumatic stress.    
 
-_Response Rates_  
+_Num of Cases and Response Rates_  
 A total of 140 School Security Professionals were invited to participate in the study. Of those individuals, 96 participated in the pilot evaluation, resulting in a response rate of 68.6%.
 
 ##### Data Dictionary
@@ -280,9 +275,9 @@ TIC_KNOW_Q5_RECODED|TIC Knowledge Check Question 5 Recoded
 
 
 ##### Definitions for Codes or Symbols Used to Record Missing Data
-The package MICE (Mul-tiple Imputation by Chained Equations) in R was used to handle missing data following the recommendations by Buuren and Groothuis-Oudshoorn (2010). Multiple imputation is an advanced missing data imputation technique that accounts for uncertainty in the imputation process by imputing multi-ple datasets (Zhang, 2016). Multiple imputation by chained equations has been shown to render unbiased estimates of missing data in several simulation studies (Drechsler & Rässler, 2008; Horton & Kleinman, 2007; Van Buuren, Brand, Groothuis-Oudshoorn, & Rubin, 2006). Each linear regression was fitted separately to 100 imputed datasets and the resulting regression parameters were combined. Effect sizes (Cohen’s d, Table 1) were calculated by taking the dif-ference in posttest means for each group and dividing them by the pooled Standard Deviation (Cohen, 1977). Addition-ally, we conducted a post hoc analysis of the means for each of the outcomes in Cohort 1 (immediate intervention) to determine whether there were significant differences in the outcomes between SSPs that had completed half or more of the modules and those that did not complete at least half of the module.
+The package MICE (Multiple Imputation by Chained Equations) in R was used to handle missing data following the recommendations by Buuren and Groothuis-Oudshoorn (2010). Multiple imputation is an advanced missing data imputation technique that accounts for uncertainty in the imputation process by imputing multi-ple datasets (Zhang, 2016). Multiple imputation by chained equations has been shown to render unbiased estimates of missing data in several simulation studies (Drechsler & Rässler, 2008; Horton & Kleinman, 2007; Van Buuren, Brand, Groothuis-Oudshoorn, & Rubin, 2006). Each linear regression was fitted separately to 100 imputed datasets and the resulting regression parameters were combined. Effect sizes (Cohen’s d, Table 1) were calculated by taking the dif-ference in posttest means for each group and dividing them by the pooled Standard Deviation (Cohen, 1977). Additionally, we conducted a post hoc analysis of the means for each of the outcomes in Cohort 1 (immediate intervention) to determine whether there were significant differences in the outcomes between SSPs that had completed half or more of the modules and those that did not complete at least half of the module.
 
-
+This was explained in [Espelage, Dorothy L., Valido, Alberto, El Sheikh, America J., Robinson, Luz E., Ingram, Katherine M., Torgal, Cagil, Atria, Catherine G., Chalfant, Pamela K., Nicholson, Angelica M., Salama, Christine D., Poekert, Philip E. Pilot evaluation of K-12 school security professionals online training: Understanding trauma and social-emotional learning. School Mental Health. 13, 41-54.](https://link.springer.com/article/10.1007/s12310-020-09399-2)
 
 ## Reflections
 1. _Which metadata standard did you choose and why?_  
