@@ -1,11 +1,12 @@
-<img width="900" height="250" alt="Enhancing_School_Resource_Officers_Effectiveness_through_Online_Professional_and_Job_Embedded_Coaching_Research_Project" src="https://github.com/user-attachments/assets/195bf476-8c1f-4562-b78d-e049f6ae1916" />
+<img width="950" height="250" alt="Enhancing_School_Resource_Officers_Effectiveness_through_Online_Professional_and_Job_Embedded_Coaching_Research_Project" src="https://github.com/user-attachments/assets/195bf476-8c1f-4562-b78d-e049f6ae1916" />
 
 ![Static Badge](https://img.shields.io/badge/Licence-us--pd-red)
 ![Static Badge](https://img.shields.io/badge/Version-V1-bule)
 ![Static Badge](https://img.shields.io/badge/DOI-https%3A%2F%2Fdoi.org%2F10.3886%2FICPSR37946.v1-black)
 
-_HUDKU 4054 Individual Assignment #2_
-_Tianyu Xu_
+_HUDKU 4054 Individual Assignment #2_  
+_Tianyu Xu_  
+_2025-10-02_  
 
 ## General Information
 Title: Enhancing School Resource Officers Effectiveness through Online Professional and Job Embedded Coaching, Miami-Dade   County, Florida, 2018-2020 (ICPSR 37946)  
@@ -78,22 +79,42 @@ School Security Professionals in Florida, employed by a single school district, 
 _Data Types_  
 Survey data
 
-_Description of Variables_  
-Variables include demographic variables including education, age, gender, and race, and SROs' responses to a self-assessment survey regarding their knowledge of traumatic stress.
-
-_Response Rates_  
-A total of 140 School Security Professionals were invited to participate in the study. Of those individuals, 96 participated in the pilot evaluation, resulting in a response rate of 68.6%.
-
 _Presence of Common Scales_  
 General Self-Efficacy scale (Schwarzer and Jerusalem, 1995)
 Trauma-Informed Organizational Self-Assessment (Fallot and Harris, 2009)
 Self-Assessment of Social and Emotional Competencies (SASEC) (Yoder, 2014)
 
 ##### Methods for Data Processing
-###############################
+We fitted a series of ten linear regression models for each outcome of interest in a posttest-only design to detect differ-ences between SSPs in Cohort 1 (immediate intervention). and Cohort 2 (delayed intervention–control group). Each model included participants’ age, gender, and level of edu-cation for two reasons, to determine whether competencies varied according to demographic differences among partici-pants and to control for any potential differences in the esti-mates of intervention effects. 
 
 ##### Software Needed to Interpret the Data
+All analyses were performed using the statistical software R.
 
+##### People Involved
+Inter-university Consortium for Political and Social Research
 
 
 ## Data-Specific Information
+
+##### Num of variables and cases
+_Num of Variables_
+92 variables from several scales below.
+
+
+_Description of Variables_  
+Variables include demographic variables including education, age, gender, and race, and SROs' responses to a self-assessment survey regarding their knowledge of traumatic stress.    
+
+  SEL Responsible Decision Making scale  
+  General Self Efficacy scale  
+  General Trauma scale  
+  SEL Relationship Skills scale  
+  SEL Self Awareness scale  
+  SEL Self Management scale  
+  SEL Social Awareness scale  
+  Specific Trauma scale  
+
+ 
+
+
+_Response Rates_  
+A total of 140 School Security Professionals were invited to participate in the study. Of those individuals, 96 participated in the pilot evaluation, resulting in a response rate of 68.6%.
