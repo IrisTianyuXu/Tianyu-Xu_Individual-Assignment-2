@@ -121,10 +121,10 @@ A total of 140 School Security Professionals were invited to participate in the 
 |---------------|------------------|---------------------|-------------------|-----------|
 |Participant ID Number| SUBJECT_ID| Numeric        |01-99| ID number assigned to participant in sequential order|
 |Start Date|DATE| mm-dd-yyyy| 01-01-2019-12-31-2019| When participant completed the survey|
-|Condition|CONDITION| Numeric| 1=control 2=intervention| What condition (control or intervention) is the subject in?
-|Education Level|EDUCATION| Numeric| 1=High school/GED 2= Some college or Associate's degree 3=Trade/technical/vocational training 4=Bachelor's degree 5=Master's or Doctorate degree| What is the highest degree or level of school you have completed?
-|Gender|GENDER| Numeric|1=Female 2=Male| What is your gender?
-|Age|AGE|Numeric|18.0-70.0|What is your age?
+|Condition|CONDITION| Numeric| 1=control 2=intervention| What condition (control or intervention) is the subject in?|
+|Education Level|EDUCATION| Numeric| 1=High school/GED 2= Some college or Associate's degree 3=Trade/technical/vocational training 4=Bachelor's degree 5=Master's or Doctorate degree| What is the highest degree or level of school you have completed?|
+|Gender|GENDER| Numeric|1=Female 2=Male| What is your gender?|
+|Age|AGE|Numeric|18.0-70.0|What is your age?|
 |Job Title|JOB_TITLE|Numeric|1=Guardians 2=Security speicalists 3= Campus monitors 4=Other| What is your current job title?
 |Hispanic|HISPANIC|Numeric|0=No 1=Yes| What is your race/ethnicity? Check all that apply. Hispanic/Latino
 |White|WHITE|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. White
@@ -133,6 +133,35 @@ A total of 140 School Security Professionals were invited to participate in the 
 |Afrian American|AFRICAN_AMERICAN|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. African American/Black
 |Multiracial|MULTIRACIAL|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. Multiracial
 |Native Hawaiian|NATIVE_HAWAIIAN|Numeric|0=No 1=Yes|What is your race/ethnicity? Check all that apply. Native Hawaiian/Pacific Islander
+|General Self Efficacy scale |GEN_SELF_EFFICACY|Numeric|1=Note at all true 2=Hardly true 3=Moderately true 4=Exactly true|The participant's general self efficacy|
+| General Trauma scale|GEN_TRAUMA|Numeric|1=Strongly Disagree 2= Disagree 3=Agree 4=Strongly Agree|The participant's general trauma
+| SEL Relationship Skills scale|SEL_REL_SKILLS|Numeric|1=Strongly Disagree 2= Disagree 3=Agree 4=Strongly Agree|The participant's SEL relationship skills
+| SEL Responsible Decision Making scale|SEL_RESP_DECISION|Numeric|1=Strongly Disagree 2= Disagree 3=Agree 4=Strongly Agree|The participant's SEL responsible decision making
+| SEL Self Awareness scale|SEL_SELF_AWARE|Numeric|1=Strongly Disagree 2= Disagree 3=Agree 4=Strongly Agree|The participant's SEL self awareness
+| SEL Self Management scale |SEL_SELF_MANAGE|Numeric|1=Strongly Disagree 2= Disagree 3=Agree 4=Strongly Agree|The participant's SEL self management
+| SEL Social Awareness scale|SEL_SOC_AWARE|Numeric|1=Strongly Disagree 2= Disagree 3=Agree 4=Strongly Agree|The participant's SEL social awareness
+|Specific Trauma scale |SPEC_TRAUMA|Numeric|1=Strongly Disagree 2= Disagree 3=Agree 4=Strongly Agree|The participant's specific trauma
+
+
+
+    
+   
+    
+   
+
+
+
+
+
+
+TIC_KNOW
+SEL_KNOW
+
+TIC_MODULE_COMPLETION
+SEL_MODULE_COMPLETION
+
+TIC_KNOWLEDGE_PERCENT_CORRECT
+SEL_KNOWLEDGE_PERCENT_CORRECT
 
 
 GEN_SELF_EFFICACY
